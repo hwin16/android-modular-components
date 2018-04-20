@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoNavigationDrawer</string>
+
+    <!-- Navigation Drawer -->
+    <string name="myimport">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="tools">Tools</string>
+    <string name="slideshow">Slideshow</string>
+</resources>
